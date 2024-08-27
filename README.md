@@ -1,4 +1,6 @@
-Esse programa é uma simulação simples de uma loja que calcula o valor total de uma compra com base no preço unitário de um produto e na quantidade comprada. Além disso, ele aplica descontos dependendo do valor total da compra. Aqui está uma descrição passo a passo do que o programa faz.
+Este programa é uma simulação simples de uma loja que calcula o valor total de uma compra com base no preço unitário de um produto e na quantidade comprada. Além disso, ele aplica descontos dependendo do valor total da compra.
+
+Aqui está uma descrição passo a passo do que o programa faz.
 
 Exibe uma mensagem de boas-vindas.
 
