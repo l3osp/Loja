@@ -39,5 +39,3 @@ Desconto de 11%: Para valores iguais ou superiores a R$ 10.000.
 Saída de dados.
 
 Exibe o valor total sem desconto e, se aplicável, o valor total com desconto.
-
-O programa, portanto, calcula e exibe o valor da compra com e sem o desconto baseado no valor total, aplicando descontos progressivos dependendo do quanto o cliente gasta.
